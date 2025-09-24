@@ -17,3 +17,11 @@ The goal is to support sustainability efforts by automating waste identification
 - 🤖 Training AI models for recycling robots  
 
 ---
+## 📂 Dataset
+
+The dataset used in this project is hosted on Google Drive:  
+👉 [Download Dataset](https://drive.google.com/drive/folders/1cEJcowxr0p-MWaQatT97XMOKxX2V7ZCe?usp=sharing)
+
+### Setup Instructions
+1. Download the dataset from the above link.  
+2. Extract the contents and place them inside a folder named `dataset/` in the root of this repository.  
